@@ -20,6 +20,9 @@ sites:
   - name: CodeChef Campus
     url: https://campus.codechef.com
     icon: https://campus.codechef.com/images/favicon.ico
+  - name: CodeChef API
+    url: https://api.codechef.com/urls
+    icon: https://s3.amazonaws.com/codechef_shared/misc/favicon.ico 
 
 status-website:
   cname: status.codechef.com
