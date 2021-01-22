@@ -17,6 +17,9 @@ sites:
   - name: CodeChef Business
     url: https://business.codechef.com
     icon: https://s3.amazonaws.com/codechef_shared/misc/favicon.ico
+  - name: CodeChef Campus
+    url: https://campus.codechef.com
+    icon: https://campus.codechef.com/images/favicon.ico
 
 status-website:
   cname: status.codechef.com
