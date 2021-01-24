@@ -78,18 +78,20 @@
     "url": "https://business.codechef.com",
     "icon": "https://s3.amazonaws.com/codechef_shared/misc/favicon.ico",
     "slug": "code-chef-business",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 183,
-    "timeWeek": 234,
-    "timeMonth": 234,
-    "timeYear": 234,
-    "dailyMinutesDown": {}
+    "time": 223,
+    "timeDay": 166,
+    "timeWeek": 223,
+    "timeMonth": 223,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2021-01-24": 0
+    }
   },
   {
     "name": "CodeChef Campus",
@@ -114,19 +116,19 @@
     "url": "https://api.codechef.com/urls",
     "icon": "https://s3.amazonaws.com/codechef_shared/misc/favicon.ico",
     "slug": "code-chef-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 129,
-    "timeWeek": 142,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 138,
+    "timeDay": 127,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {
-      "2021-01-24": 0
+      "2021-01-24": 5
     }
   }
 ]
