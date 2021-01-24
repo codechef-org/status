@@ -23,8 +23,6 @@ sites:
   - name: CodeChef API
     url: https://api.codechef.com/urls
     icon: https://s3.amazonaws.com/codechef_shared/misc/favicon.ico 
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com    
 
 status-website:
   cname: status.codechef.com
