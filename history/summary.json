@@ -42,19 +42,19 @@
     "url": "https://blog.codechef.com",
     "icon": "https://blog.codechef.com/wp-content/themes/mediumish/images/favicon.ico",
     "slug": "code-chef-blog",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 307,
-    "timeDay": 275,
-    "timeWeek": 307,
-    "timeMonth": 307,
-    "timeYear": 307,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 301,
+    "timeDay": 269,
+    "timeWeek": 301,
+    "timeMonth": 301,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2021-01-24": 1
+      "2021-01-24": 6
     }
   },
   {
@@ -62,18 +62,20 @@
     "url": "https://goodies.codechef.com",
     "icon": "https://s3.amazonaws.com/codechef-goodies/wp-content/uploads/2018/09/07183010/cropped-favicon-192x192.png",
     "slug": "code-chef-goodies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 327,
-    "timeWeek": 392,
-    "timeMonth": 392,
-    "timeYear": 392,
-    "dailyMinutesDown": {}
+    "time": 365,
+    "timeDay": 275,
+    "timeWeek": 365,
+    "timeMonth": 365,
+    "timeYear": 365,
+    "dailyMinutesDown": {
+      "2021-01-24": 0
+    }
   },
   {
     "name": "CodeChef Business",
