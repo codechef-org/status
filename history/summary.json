@@ -114,17 +114,19 @@
     "url": "https://api.codechef.com/urls",
     "icon": "https://s3.amazonaws.com/codechef_shared/misc/favicon.ico",
     "slug": "code-chef-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 148,
-    "timeWeek": 155,
-    "timeMonth": 155,
-    "timeYear": 155,
-    "dailyMinutesDown": {}
+    "time": 142,
+    "timeDay": 129,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
+    "dailyMinutesDown": {
+      "2021-01-24": 0
+    }
   }
 ]
