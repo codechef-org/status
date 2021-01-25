@@ -32,7 +32,6 @@ sites:
     icon: https://s3.amazonaws.com/codechef_shared/misc/favicon.ico 
 
 status-website:
-  cname: status.codechef.com
   logoUrl: https://www.codechef.com/sites/all/themes/abessive/logo.svg
   name: CodeChef | Status
   cname: status.codechef.com
