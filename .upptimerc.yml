@@ -34,7 +34,7 @@ sites:
 status-website:
   logoUrl: https://www.codechef.com/sites/all/themes/abessive/logo.svg
   name: CodeChef | Status
-  cname: uptime.codechef.com
+  cname: status.codechef.com
   introTitle: "**CodeChef** - One of the world’s largest and popular global competitive programming platforms preferred by student & professional programmers."
   introMessage: This is a status page for all CodeChef sites.
   navbar:
