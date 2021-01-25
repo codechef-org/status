@@ -34,6 +34,7 @@ sites:
 status-website:
   logoUrl: https://www.codechef.com/sites/all/themes/abessive/logo.svg
   name: Status
+  cname: status.codechef.com  
   navbar:
     - title: Home
       href: https://www.codechef.com
