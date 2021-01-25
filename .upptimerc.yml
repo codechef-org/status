@@ -17,6 +17,13 @@ sites:
   - name: CodeChef Business
     url: https://business.codechef.com
     icon: https://s3.amazonaws.com/codechef_shared/misc/favicon.ico
+    expectedStatusCodes:
+      - 200
+  - name: CodeChef Certifications
+    url: https://certifications.codechef.com/data-structures-and-algorithms
+    icon: https://s3.amazonaws.com/codechef_shared/misc/favicon.ico
+    expectedStatusCodes:
+      - 200      
   - name: CodeChef Campus
     url: https://campus.codechef.com
     icon: https://campus.codechef.com/images/favicon.ico
