@@ -128,19 +128,19 @@
     "url": "https://campus.codechef.com",
     "icon": "https://campus.codechef.com/images/favicon.ico",
     "slug": "code-chef-campus",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 869,
-    "timeDay": 745,
-    "timeWeek": 924,
-    "timeMonth": 869,
-    "timeYear": 869,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 885,
+    "timeDay": 981,
+    "timeWeek": 945,
+    "timeMonth": 885,
+    "timeYear": 885,
     "dailyMinutesDown": {
-      "2021-02-01": 0
+      "2021-02-01": 2
     }
   },
   {
