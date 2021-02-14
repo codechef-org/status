@@ -156,7 +156,7 @@
     "url": "https://api.codechef.com/urls",
     "icon": "https://s3.amazonaws.com/codechef_shared/misc/favicon.ico",
     "slug": "code-chef-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "98.74%",
     "uptimeWeek": "99.82%",
@@ -168,6 +168,7 @@
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2021-02-14": 0,
       "2021-02-13": 18,
       "2021-01-24": 5
     }
