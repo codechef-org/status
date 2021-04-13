@@ -4,17 +4,17 @@
     "url": "https://www.codechef.com",
     "icon": "https://s3.amazonaws.com/codechef_shared/misc/favicon.ico",
     "slug": "code-chef",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.91%",
-    "time": 579,
-    "timeDay": 353,
-    "timeWeek": 329,
+    "time": 577,
+    "timeDay": 320,
+    "timeWeek": 322,
     "timeMonth": 301,
-    "timeYear": 579,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2021-03-18": 1,
       "2021-03-17": 4,
@@ -47,7 +47,7 @@
     "time": 344,
     "timeDay": 611,
     "timeWeek": 448,
-    "timeMonth": 376,
+    "timeMonth": 380,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2021-02-18": 9
@@ -67,7 +67,7 @@
     "time": 607,
     "timeDay": 534,
     "timeWeek": 377,
-    "timeMonth": 640,
+    "timeMonth": 652,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2021-02-14": 2,
@@ -90,7 +90,7 @@
     "time": 802,
     "timeDay": 545,
     "timeWeek": 444,
-    "timeMonth": 409,
+    "timeMonth": 413,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2021-02-14": 2,
@@ -113,7 +113,7 @@
     "time": 536,
     "timeDay": 472,
     "timeWeek": 321,
-    "timeMonth": 319,
+    "timeMonth": 324,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2021-02-21": 17,
@@ -139,7 +139,7 @@
     "time": 549,
     "timeDay": 474,
     "timeWeek": 312,
-    "timeMonth": 278,
+    "timeMonth": 281,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2021-02-21": 17,
@@ -162,7 +162,7 @@
     "time": 861,
     "timeDay": 1015,
     "timeWeek": 863,
-    "timeMonth": 934,
+    "timeMonth": 938,
     "timeYear": 861,
     "dailyMinutesDown": {
       "2021-03-16": 10,
@@ -186,7 +186,7 @@
     "time": 299,
     "timeDay": 418,
     "timeWeek": 262,
-    "timeMonth": 222,
+    "timeMonth": 225,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2021-03-15": 3,
